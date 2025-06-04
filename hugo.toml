@@ -1,0 +1,11 @@
+baseURL = 'https://m0nkeyfl0wer.github.io/benwest-blog/'
+languageCode = 'en-us'
+theme = 'hugo-theme-stack'
+title = 'Ben West'
+
+[params]
+  mainSections = ['posts']
+  [params.avatar]
+    enabled = true
+    local = true
+    src = 'images/avatar.png'

@@ -1,0 +1,14 @@
+baseURL = "https://m0nkeyfl0wer.github.io/benwest-blog/"
+title   = "Ben West"
+theme   = "hugo-theme-stack"
+
+[params]
+  mainSections = ["posts"]
+  customCSS = ["css/custom.css"]
+
+[params.author]
+  name = "Ben West"
+  [params.author.avatar]
+    enabled = true
+    local   = true
+    src     = "images/avatar.png"
