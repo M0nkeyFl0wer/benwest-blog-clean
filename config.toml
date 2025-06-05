@@ -6,10 +6,11 @@ theme   = "hugo-theme-stack"
   mainSections = ["posts"]
   customCSS = ["css/custom.css"]
   favicon = "favicon.ico"
+  avatar = "https://avatars.githubusercontent.com/u/91565301?s=300&v=4"
 
 [params.author]
   name = "Ben West"
   [params.author.avatar]
     enabled = true
-    local   = true
-    src     = "images/avatar.png"
+    local   = false
+    src     = "https://avatars.githubusercontent.com/u/91565301?s=300&v=4"
