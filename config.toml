@@ -5,7 +5,6 @@ theme   = "hugo-theme-stack"
 [params]
   mainSections = ["posts"]
   customCSS = ["css/custom.css"]
-  avatar = "images/avatar.png"
   favicon = "favicon.ico"
 
 [params.author]
